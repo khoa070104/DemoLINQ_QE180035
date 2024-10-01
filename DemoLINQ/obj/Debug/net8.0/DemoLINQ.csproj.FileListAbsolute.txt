@@ -1,0 +1,14 @@
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\bin\Debug\net8.0\DemoLINQ.exe
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\bin\Debug\net8.0\DemoLINQ.deps.json
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\bin\Debug\net8.0\DemoLINQ.runtimeconfig.json
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\bin\Debug\net8.0\DemoLINQ.dll
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\bin\Debug\net8.0\DemoLINQ.pdb
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\obj\Debug\net8.0\DemoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\obj\Debug\net8.0\DemoLINQ.AssemblyInfoInputs.cache
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\obj\Debug\net8.0\DemoLINQ.AssemblyInfo.cs
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\obj\Debug\net8.0\DemoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\obj\Debug\net8.0\DemoLINQ.dll
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\obj\Debug\net8.0\refint\DemoLINQ.dll
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\obj\Debug\net8.0\DemoLINQ.pdb
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\obj\Debug\net8.0\DemoLINQ.genruntimeconfig.cache
+C:\Users\Khoa Bug\source\repos\DemoLINQ\DemoLINQ\obj\Debug\net8.0\ref\DemoLINQ.dll
